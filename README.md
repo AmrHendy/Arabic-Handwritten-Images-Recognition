@@ -17,9 +17,9 @@ letter or digit and get accuracy of 98.86% when testing on more than 13000 diffe
 You can download the dataset from [here](https://drive.google.com/open?id=1F-P6uupjVPHgHZjd34O1X8EFn-Xp-SiD)
 
 ## Prerequisites
-To run that project on your own device you need to install Jupyter Notebook or use [Colab](https://colab.research.google.com/) to run the iPython Noteboob direclty.
-You should also have python worked at version 2.6 at least.
-You should install Keras (follow the documentation [here](https://keras.io/)).
+- You need to install Jupyter Notebook or use [Colab](https://colab.research.google.com/) to run the iPython Noteboob direclty.
+- You should also have python worked at version 2.6 or higher.
+- You should install Keras (follow the documentation [here](https://keras.io/)).
 
 ## Authors
 **Amr Hendy**  [AmrHendy](https://github.com/AmrHendy)
