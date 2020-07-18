@@ -22,7 +22,7 @@ You can download the dataset from [here](https://drive.google.com/open?id=1F-P6u
 - You should install Keras (follow the documentation [here](https://keras.io/)).
 
 ## Authors
-**Amr Hendy**  [AmrHendy](https://github.com/AmrHendy)
+[AmrHendy](https://github.com/AmrHendy)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
